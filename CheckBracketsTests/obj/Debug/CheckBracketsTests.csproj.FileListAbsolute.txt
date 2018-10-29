@@ -1,0 +1,17 @@
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\CheckBracketsTests.dll
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\CheckBracketsTests.pdb
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\CheckBrackets.exe
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\CheckBrackets.pdb
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\CheckBrackets.exe.config
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\obj\Debug\CheckBracketsTests.csprojAssemblyReference.cache
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\obj\Debug\CheckBracketsTests.csproj.CoreCompileInputs.cache
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\obj\Debug\CheckBracketsTests.csproj.CopyComplete
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\obj\Debug\CheckBracketsTests.dll
+C:\Documente\repos\bowen-tech\CheckBrackets\CheckBrackets\CheckBracketsTests\obj\Debug\CheckBracketsTests.pdb
