@@ -16,7 +16,7 @@ and three brackets on the right side.
 ## Example
 
 >Input text: "this {text} ) is not [{ok]}"
->Output: Not all brackets were ok. Check errors:
->        t}.).is
->        {ok]}
->        ot.[{ok
+ Output: Not all brackets were ok. Check errors:
+         t}.).is
+         {ok]}
+         ot.[{ok
